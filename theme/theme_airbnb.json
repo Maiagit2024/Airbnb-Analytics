@@ -1,0 +1,9 @@
+{
+   
+  "name": "AirbnbRJ Theme",
+  "dataColors": ["#FF5A5F", "#00A699", "#FFB400", "#484848", "#767676"],
+  "background": "#F7F7F7",
+  "foreground": "#484848",
+  "tableAccent": "#FF5A5F"
+}
+
