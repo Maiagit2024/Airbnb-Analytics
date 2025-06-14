@@ -87,7 +87,7 @@ Data.Rio: mapa de bairros (shapefile)
 
 Clone o repositório
 
-git clone https://github.com/seu-usuario/airbnb-analise-portifolio.git
+git clone https://github.com/Maiagit2024/airbnb-analise-portifolio.git
 cd airbnb-analise-portifolio
 
 Pré-requisitos
@@ -146,3 +146,6 @@ Mapa geoespacial com anúncios por bairro
 
 Cartões de métricas: preço médio, ocupação, total de anúncios
 
+✉️ Contato
+
+José Maia – https://www.linkedin.com/in/josé-maia-ju0ni8 - LinkedIn 
