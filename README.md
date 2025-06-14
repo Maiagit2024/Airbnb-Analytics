@@ -130,6 +130,7 @@ Carregamento: exportação para CSV e conexão Power BI.
 📈 Dashboard Power BI
 
 Veja o GIF abaixo para um preview do dashboard:
+![Demonstração do Dashboard](assets/Airbnb.gif)
 
 Principais visuais:
 
