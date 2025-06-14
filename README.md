@@ -85,11 +85,6 @@ Data.Rio: mapa de bairros (shapefile)
 
 🔧 Instalação e Execução
 
-Clone o repositório
-
-git clone https://github.com/Maiagit2024/airbnb-analise-portifolio.git
-cd airbnb-analise-portifolio
-
 Pré-requisitos
 
 Python 3.8+ instalado
